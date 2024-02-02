@@ -1,4 +1,5 @@
-https://github.com/SutarAkshay1804/SutarAkshay1804/assets/158568924/36d3dae8-4b69-402c-8793-f389bd912ec9
+
+![Keep it simple](https://github.com/SutarAkshay1804/SutarAkshay1804/assets/158568924/28d0ad6d-e305-43f6-863b-27351fd7a778)
 
  _**-👋 Hi, I’m Akshay Sutar**_
 - 🌱 I’m currently learning Data Analytiics stuff
